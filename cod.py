@@ -10,7 +10,8 @@ loja = [
 
 #Login do Player
 nome = input("Digite o nome do jogador: ")
-ouro = float(input("Digite a quantidade de ouro inicial: "))
+ouro = input("Digite a quantidade de ouro inicial: ")
+ouro = float(ouro)
 inventario = []
 
 #Mostrar loja
