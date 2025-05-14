@@ -5,7 +5,7 @@ loja = [
     {"nome": "Armadura de Netherite", "tipo": "Armadura", "preco": 60},
     {"nome": "Poção de Luxúria das algas", "tipo": "Consumível", "preco": 30},
     {"nome": "Anel de Luana", "tipo": "Acessório", "preco": 100},
-    {"nome": "Mão de mpusica", "tipo": "Grímorio", "preco": 500},
+    {"nome": "Mão de música", "tipo": "Grímorio", "preco": 500},
 ]
 
 #Login do Player
