@@ -1,6 +1,6 @@
 #Itens da loja (lembrete pra não fazer merda)
 loja = [
-    {"nome": "Kanata no insta-counter", "tipo": "Arma", "preco": 50},
+    {"nome": "Katana no insta-counter", "tipo": "Arma", "preco": 50},
     {"nome": "Espada de Diamante", "tipo": "Arma", "preco": 200},
     {"nome": "Armadura de Netherite", "tipo": "Armadura", "preco": 60},
     {"nome": "Poção de Luxúria das algas", "tipo": "Consumível", "preco": 30},
