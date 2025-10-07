@@ -1,11 +1,11 @@
 #Itens da loja
 loja = [
-    {"nome": "Kanata do insta-counter", "tipo": "Arma", "preco": 50},
+    {"nome": "Kanata de Aço", "tipo": "Arma", "preco": 50},
     {"nome": "Espada de Diamante", "tipo": "Arma", "preco": 200},
-    {"nome": "Armadura de Netherite", "tipo": "Armadura", "preco": 60},
-    {"nome": "Poção de cura", "tipo": "Consumível", "preco": 30},
-    {"nome": "Anel magico", "tipo": "Acessório", "preco": 100},
-    {"nome": "Mão de musica", "tipo": "Grímorio", "preco": 500},
+    {"nome": "Armadura de Aço Mágico", "tipo": "Armadura", "preco": 60},
+    {"nome": "Poção de Cura", "tipo": "Consumível", "preco": 30},
+    {"nome": "Anel Mágico", "tipo": "Acessório", "preco": 100},
+    {"nome": "Mão de Musica", "tipo": "Grímorio", "preco": 500},
 ]
 
 #Login do Player
@@ -76,5 +76,6 @@ def menu():
             break
         else:
             print("Opção inválida.")
+
 
 menu()
